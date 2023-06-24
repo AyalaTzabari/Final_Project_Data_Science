@@ -27,7 +27,7 @@
   <img src="Word_cloud.png" height="200" style="display: inline-block; margin: 10px;">
 </div>
 <p align ="center"> 
-<i>Machine Learning Algorithms <a href="https://realpython.com/knn-python/">KNN</a> & <a href="https://realpython.com/linear-regression-in-python/">linearRegression</a> <a href="https://towardsdatascience.com/random-forest-in-python-24d0893d51c0">RandomForest🌳</a> </i>
+<i>Machine Learning Algorithms <a href="https://realpython.com/knn-python/">KNN</a> & <a href="https://realpython.com/linear-regression-in-python/">linearRegression</a>&<a href="https://towardsdatascience.com/random-forest-in-python-24d0893d51c0">RandomForest🌳</a>&<a href="https://www.geeksforgeeks.org/decision-tree-implementation-python/">DecisionTree🌴</a>&<a href="https://www.activestate.com/resources/quick-reads/how-to-create-a-neural-network-in-python-with-and-without-keras/">NeuralNetwork</a>&<a href="https://machinelearningmastery.com/lasso-regression-with-python/">Lasso</a></i>
 <br><br>
 
 ## In Action 🎬
