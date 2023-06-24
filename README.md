@@ -16,17 +16,17 @@
   - Predictive models.
   
 ## Modles & EDA
-<p align="center">
-<img src="Avg_stars_by_genre.png" height="400" style="display: block; margin: 0 auto; text-align: center;"/>
-<hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="Outliers.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-<hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="Publishing_year_pie.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-<hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="Stars_hist.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-<hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="Word_cloud.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-</p>
+<div align="center">
+  <img src="Avg_stars_by_genre.png" height="200" style="display: inline-block; margin: 10px;">
+  <img src="Outliers.png" height="200" style="display: inline-block; margin: 10px;">
+  <img src="Publishing_year_pie.png" height="200" style="display: inline-block; margin: 10px;">
+</div>
+
+<div align="center">
+  <img src="Stars_hist.png" height="200" style="display: inline-block; margin: 10px;">
+  <img src="Word_cloud.png" height="200" style="display: inline-block; margin: 10px;">
+</div>
+
 
 ## In Action 🎬
 <p align="center">
