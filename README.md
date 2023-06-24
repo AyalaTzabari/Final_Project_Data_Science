@@ -17,7 +17,8 @@
   
 ## Modles & EDA
 <p align="center">
-<img src="Final_Project_Data_Science/Outliers.png" height="400" style="display: block; margin: 0 auto; text-align: center;"/>
+  <a href="https://github.com/AyalaTzabari">
+    <img src="Final_Project_Data_Science/Avg_stars_by_genre.png" height="400" style="display: block; margin: 0 auto; text-align: center;"/>
 <hr class="dotted" style="border-top: 3px dotted #bbb;">
 <img src="AppScreensAndPoster/login.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
 <hr class="dotted" style="border-top: 3px dotted #bbb;">
