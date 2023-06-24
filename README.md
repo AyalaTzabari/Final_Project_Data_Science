@@ -17,23 +17,15 @@
   
 ## Modles & EDA
 <p align="center">
-  <img src="Final_Project_Data_Science/Avg_stars_by_genre.png" height="400" style="display: block; margin: 0 auto; text-align: center;"/>
+<img src="Avg_stars_by_genre.png" height="400" style="display: block; margin: 0 auto; text-align: center;"/>
 <hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="AppScreensAndPoster/login.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
+<img src="Outliers.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
 <hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="AppScreensAndPoster/editor.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
+<img src="Publishing_year_pie.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
 <hr class="dotted" style="border-top: 3px dotted #bbb;">
-<img src="AppScreensAndPoster/search.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
-  <img src="AppScreensAndPoster/lunch.png" height="400" style="display: block; margin: 0 auto; text-align: center;"hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
-  <img src="AppScreensAndPoster/recipes.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
-  <img src="AppScreensAndPoster/about.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
-  <img src="AppScreensAndPoster/error.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
-  <hr class="dotted" style="border-top: 3px dotted #bbb;">
-  <img src="AppScreensAndPoster/footer.png" height="400" style="display: block; margin: 0 auto; text-align: center;"hspace="20" />
+<img src="Stars_hist.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
+<hr class="dotted" style="border-top: 3px dotted #bbb;">
+<img src="Word_cloud.png" height="400" style="display: block; margin: 0 auto; text-align: center;" hspace="20"/>
 </p>
 
 ## In Action 🎬
