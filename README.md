@@ -26,7 +26,9 @@
   <img src="Stars_hist.png" height="200" style="display: inline-block; margin: 10px;">
   <img src="Word_cloud.png" height="200" style="display: inline-block; margin: 10px;">
 </div>
-
+<p align ="center"> 
+<i>Machine Learning Algorithms <a href="https://realpython.com/knn-python/">KNN</a> & <a href="https://realpython.com/linear-regression-in-python/">linearRegression</a> <a href="https://towardsdatascience.com/random-forest-in-python-24d0893d51c0">RandomForest🌳</a> </i>
+<br><br>
 
 ## In Action 🎬
 <p align="center">
